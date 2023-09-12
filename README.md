@@ -5,14 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [MyProjects](https://github.com/Krish209?tab=repositories)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="www.linkedin.com/in/krish-raj-4b27b0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajanan donge" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/krish_raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gajanan_5602" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/donge_gajanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@donge_gajanan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gajanan_5602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gajanan_5602" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gajanandonge5602" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gajanandonge5602" height="30" width="40" /></a>
-</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +20,17 @@
     <img src="https://softwarelist.oregonstate.edu/sites/softwarelist.oregonstate.edu/files/styles/software_image/public/software/solidworks.png?itok=NSYSoUYd" alt="SolidWorks" width="40" height="40"/>
   </a>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  
+<a href="www.linkedin.com/in/krish-raj-4b27b0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gajanan donge" height="30" width="40" /></a>
+  
+<a href="https://www.codechef.com/users/krish_raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="gajanan_5602" height="30" width="40" /></a>
+
+<a href="https://codeforces.com/profile/Raj_Krish" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="gajanan_5602" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/raj_krish/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gajanandonge5602" height="30" width="40" /></a>
+</p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanansd&show_icons=true&locale=en&layout=compact" alt="gajanansd" /></p>
