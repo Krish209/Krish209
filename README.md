@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d.gif" alt="Animated Pokemon GIF" width="600" height="300"/> 
+  <img src="https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d.gif" alt="Animated Pokemon GIF" width="700" height="400"/> 
 </p>
 
 
