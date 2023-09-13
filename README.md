@@ -7,9 +7,10 @@
   <p>👨‍💻 Check out my projects on <a href="https://github.com/Krish209?tab=repositories">GitHub</a></p>
 </div>
 
-<div align="center">
-   ![5f3b7da953ca75b6-animated-pokemon-gif-auto-design-tech](https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d)
-</div>
+<p align="center">
+  <img src="https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d.gif" alt="Animated Pokemon GIF">
+</p>
+
 
 <h3 align="center">Languages and Tools:</h3>
 
