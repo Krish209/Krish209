@@ -3,7 +3,7 @@
 
 <h4 align="center"> 🌱 I’m currently learning *DSA, Machine Learning*> </h4>
 
-<h4 align="center" 👨‍💻 All of my projects are available at [MyProjects](https://github.com/Krish209?tab=repositories)</h4>
+-<h4 align="center" 👨‍💻 All of my projects are available at [MyProjects](https://github.com/Krish209?tab=repositories)</h4>
 
 
 
