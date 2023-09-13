@@ -1,3 +1,4 @@
+![5f3b7da953ca75b6-animated-pokemon-gif-auto-design-tech](https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d)
 <div align="center">
   <h1>👋 Hi, I'm Krish Raj</h1>
   <h3>B.Tech Final Year Student in Mechanical Engineering with a Minor in Computer Science and Engineering at IIT Gandhinagar, Gujarat, India</h3>
