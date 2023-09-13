@@ -8,7 +8,7 @@
 
 
 
-![Alt Text]https://github.com/Krish209/Krish209/assets/76595963/639bc7bc-1274-4557-8e96-71dc65d7e87e =300x200)
+![Alt Text](https://github.com/Krish209/Krish209/assets/76595963/639bc7bc-1274-4557-8e96-71dc65d7e87e =300x200)
 
 
 
