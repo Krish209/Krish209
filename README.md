@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-![5f3b7da953ca75b6-animated-pokemon-gif-auto-design-tech](https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d)
+  ![5f3b7da953ca75b6-animated-pokemon-gif-auto-design-tech](https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d)
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
