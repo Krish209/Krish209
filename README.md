@@ -76,6 +76,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
+  
   <a href="mailto:raj.krish@iitgn.ac.in">
     <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Logo Alt Text" height="30" width="40" />
   </a>
@@ -87,13 +88,17 @@
   <a href="https://instagram.com/krish_raj03" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
+  
   <a href="https://www.codechef.com/users/https://www.codechef.com/users/krish_raj" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
+  
   <a href="https://codeforces.com/profile/https://codeforces.com/profile/raj_krish" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
   </a>
+  
   <a href="https://www.leetcode.com/https://leetcode.com/raj_krish/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
+  
 </p>
