@@ -7,7 +7,8 @@
 </div>
 
 
-![Alt Text](https://www.example.com/path/to/your/image.png)
+![Alt Text](https://github.com/yourusername/yourrepository/blob/main/path/to/your/image.png =300x200)
+
 
 
 <h3 align="center">Languages and Tools:</h3>
