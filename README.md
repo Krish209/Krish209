@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Krish Raj</h1>
 <h3 align="center">B.Tech Final year student in department of Mechanical Engineering with minor in Computer Science and Engineering at IIT Gandhinagar, Gujarat, India.</h3>
 
-<h4 align="center"> 🌱 I’m currently learning *DSA, Machine Learning* </h4>
+<h4 align="center"> 🌱 I’m currently learning *DSA, Machine Learning*> </h4>
 
--<h4 align="center" 👨‍💻 All of my projects are available at [MyProjects](https://github.com/Krish209?tab=repositories)</h4>
+<h4 align="center" 👨‍💻 All of my projects are available at [MyProjects](https://github.com/Krish209?tab=repositories)</h4>
 
 
 
