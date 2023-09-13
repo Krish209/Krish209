@@ -81,11 +81,14 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  [![Logo Alt Text](https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png)](mailto:raj.krish@iitgn.ac.in)
+  <a href="mailto:raj.krish@iitgn.ac.in">
+    <img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo.png" alt="Logo Alt Text" height="30" width="40" />
+  </a>
   
   <a href="https://linkedin.com/in/www.linkedin.com/in/krish-raj-4b27b0203" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
+
   <a href="https://instagram.com/krish_raj03" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
