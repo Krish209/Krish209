@@ -2,7 +2,7 @@
 <h3 align="center">B.Tech Final year student in department of Mechanical Engineering with minor in Computer Science and Engineering at IIT Gandhinagar, Gujarat, India.</h3>
 
 -<h5 align="center"> 🌱 I’m currently learning *DSA, Machine Learning* </h5>
--<h5 align="center"> 👨‍💻 All of my projects are available at [MyProjects](https://github.com/Krish209?tab=repositories)</h5>
+-<h5 align="center"> 👨‍💻 All of my projects are available at [here](https://github.com/Krish209?tab=repositories)</h5>
 
 
 
