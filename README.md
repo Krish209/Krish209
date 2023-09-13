@@ -76,8 +76,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  [Email Me](mailto:raj.krish@iitgn.ac.in)
-
+  <a href="raj.krish@iitgn.ac.in" target="_blank">
+    <img src="email-icon.png" alt="Email" height="30" width="40" />
+  </a>
+  
   <a href="https://linkedin.com/in/www.linkedin.com/in/krish-raj-4b27b0203" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
