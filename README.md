@@ -73,11 +73,6 @@
   
 </p>
 
-<p align="center">
-  <!-- Other social media links... -->
-  
-  [Email Me](mailto:youremail@example.com)
-</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
