@@ -6,8 +6,11 @@
   <p>👨‍💻 Check out my projects on <a href="https://github.com/Krish209?tab=repositories">GitHub</a></p>
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
 
+![Alt Text](https://www.example.com/path/to/your/image.png)
+
+
+<h3 align="center">Languages and Tools:</h3>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
