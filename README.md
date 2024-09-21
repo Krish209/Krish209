@@ -1,16 +1,17 @@
 <div align="center">
   <h1>👋 Hi, I'm Krish Raj</h1>
-  <h3>Recent B.Tech Graduate in Mechanical Engineering with a Minor in Computer Science and Engineering from IIT Gandhinagar, Gujarat, India</h3>
+  <h3>B.Tech Graduate in Mechanical Engineering with a Minor in Computer Science from IIT Gandhinagar, Gujarat, India</h3>
 
-  <p>🌱 I’m currently expanding my knowledge in Data Structures and Algorithms (DSA) and Machine Learning.</p>
-  <p>👨‍💻 Check out my projects on <a href="https://github.com/Krish209?tab=repositories">GitHub</a></p>
+  <p>💼 I have hands-on experience in Java, Spring Boot, MongoDB, MySQL, and PostgreSQL, along with a solid foundation in software development practices.</p>
+  <p>🚀 Currently diving deeper into backend development, cloud technologies, and scalable database systems.</p>
+  <p>👨‍💻 Explore my diverse range of projects on <a href="https://github.com/Krish209?tab=repositories">GitHub</a></p>
 </div>
 
 <p align="center">
-  <img src="https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d.gif" alt="Animated Pokemon GIF" width="700" height="400"/> 
+  <img src="https://github.com/Krish209/Krish209/assets/76595963/deab1a31-8e7d-464c-843c-1e50309c714d.gif" alt="Animated Coding GIF" width="700" height="400"/> 
 </p>
 
-<h3 align="center">🛠️ Languages and Tools:</h3>
+<h3 align="center">🛠️ My Technical Toolkit:</h3>
 
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -107,5 +108,5 @@
 
 <h3 align="center">📫 Let's collaborate!</h3>
 <p align="center">
-  I'm always open to discussing new projects, ideas, or any opportunities. Feel free to reach out!
+  I'm always open to discussing new projects, ideas, or any opportunities. Let's connect and explore how we can collaborate!
 </p>
